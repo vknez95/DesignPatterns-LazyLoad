@@ -1,0 +1,8 @@
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/bin/Debug/netstandard2.0/LazyLoad.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/bin/Debug/netstandard2.0/LazyLoad.dll
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/bin/Debug/netstandard2.0/LazyLoad.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/obj/Debug/netstandard2.0/LazyLoad.csproj.CoreCompileInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/obj/Debug/netstandard2.0/LazyLoad.AssemblyInfoInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/obj/Debug/netstandard2.0/LazyLoad.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/obj/Debug/netstandard2.0/LazyLoad.dll
+/Users/vknez/Documents/Programming/DesignPatterns/LazyLoad/LazyLoad/obj/Debug/netstandard2.0/LazyLoad.pdb
